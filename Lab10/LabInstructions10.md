@@ -6,16 +6,16 @@ We want to shape data integration using Data Flows. By now we have seen quite a 
 
 For this assignment, it is expected that you have exported the AdventureWorkLT database to parquet files. You can of course do this yourself, or you can manually upload the files - they are available for download here:
 
-* [Address.parquet](parquetfiles/Address.parquet)
-* [Customer.parquet](parquetfiles/Customer.parquet)
-* [CustomerAddress.parquet](parquetfiles/CustomerAddress.parquet)
-* [Product.parquet](parquetfiles/Product.parquet)
-* [ProductCategory.parquet](parquetfiles/ProductCategory.parquet)
-* [ProductDescription.parquet](parquetfiles/ProductDescription.parquet)
-* [ProductModel.parquet](parquetfiles/ProductModel.parquet)
-* [ProductModelProductDescription.parquet](parquetfiles/ProductModelProductDescription.parquet)
-* [SalesOrderDetail.parquet](parquetfiles/SalesOrderDetail.parquet)
-* [SalesOrderHeader.parquet](parquetfiles/SalesOrderHeader.parquet)
+* [Address.parquet](https://github.com/wortell-smart-learning/ADF-Training/raw/main/Lab10/parquetfiles/Address.parquet)
+* [Customer.parquet](https://github.com/wortell-smart-learning/ADF-Training/raw/main/Lab10/parquetfiles/Customer.parquet)
+* [CustomerAddress.parquet](https://github.com/wortell-smart-learning/ADF-Training/raw/main/Lab10/parquetfiles/CustomerAddress.parquet)
+* [Product.parquet](https://github.com/wortell-smart-learning/ADF-Training/raw/main/Lab10/parquetfiles/Product.parquet)
+* [ProductCategory.parquet](https://github.com/wortell-smart-learning/ADF-Training/raw/main/Lab10/parquetfiles/ProductCategory.parquet)
+* [ProductDescription.parquet](https://github.com/wortell-smart-learning/ADF-Training/raw/main/Lab10/parquetfiles/ProductDescription.parquet)
+* [ProductModel.parquet](https://github.com/wortell-smart-learning/ADF-Training/raw/main/Lab10/parquetfiles/ProductModel.parquet)
+* [ProductModelProductDescription.parquet](https://github.com/wortell-smart-learning/ADF-Training/raw/main/Lab10/parquetfiles/ProductModelProductDescription.parquet)
+* [SalesOrderDetail.parquet](https://github.com/wortell-smart-learning/ADF-Training/raw/main/Lab10/parquetfiles/SalesOrderDetail.parquet)
+* [SalesOrderHeader.parquet](https://github.com/wortell-smart-learning/ADF-Training/raw/main/Lab10/parquetfiles/SalesOrderHeader.parquet)
 
 ## Preparations
 
