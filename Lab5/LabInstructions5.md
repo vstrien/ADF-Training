@@ -43,20 +43,14 @@ It's time now that we start moving data from point A to point B. We do this by c
 
 12. Rename each pipeline one by one to the 3 pipelines you have created before for **Address**, **SalesPersonal**, and **ProductCategoryDiscount**. If the name is too long for what is allowed, make it shorter for now.
 
-13. Go to the **Settings** tab for each
-
- pipeline and choose the corresponding pipeline. Do this for all 3 pipelines.
+13. Go to the **Settings** tab for each pipeline and choose the corresponding pipeline. Do this for all 3 pipelines.
 
 14. At this moment, all 3 pipelines would run in parallel, which should be easy as there is no dependence on each other. Despite this, we are going to make them sequential. Click on one of the 3 pipelines. On the right side of the pipeline block you will see **four squares with symbols**. Click on it and a list with the following options will appear:
 
-    On Skip = When the pipeline is skipped, move on to the next one.
-
-    On Success = When the pipeline has run successfully, move on to the next one.
-
-    On Failure = When the pipeline fails, move on to the next one.
-
-    On Completion = When the pipeline is finished, regardless of success or failure, move on to the next one.
-
+    * On Skip = When the pipeline is skipped, move on to the next one.
+    * On Success = When the pipeline has run successfully, move on to the next one.
+    * On Failure = When the pipeline fails, move on to the next one.
+    * On Completion = When the pipeline is finished, regardless of success or failure, move on to the next one.  
     Click and drag the **green block** to one of the other pipelines, and then do it again for another pipeline. You should now have connected all 3 pipelines to each other with 2 **green arrows**.
 
 15. Click on the **Blue button** with the text **Publish all** and then on the **Publish** button. By publishing, the other changes become **Live**, and can be used.
